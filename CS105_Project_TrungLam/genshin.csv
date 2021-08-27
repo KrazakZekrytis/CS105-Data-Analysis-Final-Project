@@ -1,0 +1,37 @@
+Name,HP,ATK,DEF,Ascension Stat,Ascension Stat Value,Release Date,Element,Weapon,Sex,Nation,rarity,birthday
+Lisa,9570,232,573,Elemental Mastery,96,2020-09-28,Electro,Catalyst,Female,Mondstadt,4.0,0000-06-09
+Razor,11962,234,751,Physical DMG Bonus,30.0%,2020-09-28,Electro,Claymore,Male,Mondstadt,4.0,0000-09-09
+Qiqi,12368,287,922,Healing Bonus,22.2%,2020-09-28,Cryo,Sword,Female,Liyue,5.0,0000-03-03
+Noelle,12071,191,799,DEF,30.0%,2020-09-28,Geo,Claymore,Female,Mondstadt,4.0,0000-03-21
+Ningguang,9787,212,573,Geo DMG Bonus,24.0%,2020-09-28,Geo,Catalyst,Female,Liyue,4.0,0000-08-26
+Mona,10409,287,653,Energy Recharge,32.0%,2020-09-28,Hydro,Catalyst,Female,Mondstadt,5.0,0000-08-31
+Keqing,13103,323,799,CRIT DMG,38.4%,2020-09-28,Electro,Sword,Female,Liyue,5.0,0000-11-20
+Venti,10531,263,669,Energy Recharge,32.0%,2020-09-28,Anemo,Bow,Male,Mondstadt,5.0,0000-06-16
+Kaeya,11636,223,792,Energy Recharge,26.7%,2020-09-28,Cryo,Sword,Male,Mondstadt,4.0,0000-11-30
+Sucrose,9243,170,703,Anemo DMG Bonus,24.0%,2020-09-28,Anemo,Catalyst,Female,Mondstadt,4.0,0000-11-26
+Xiangling,10875,225,669,Elemental Mastery,96,2020-09-28,Pyro,Polearm,Female,Liyue,4.0,0000-11-02
+Xingqiu,10223,202,758,ATK,24.0%,2020-09-28,Hydro,Sword,Male,Liyue,4.0,0000-10-09
+Fischl,9189,244,594,ATK,24.0%,2020-09-28,Electro,Bow,Female,Mondstadt,4.0,0000-05-27
+Diluc,12981,335,784,CRIT Rate,19.2%,2020-09-28,Pyro,Claymore,Male,Mondstadt,5.0,0000-04-30
+Chongyun,10984,223,648,ATK,24.0%,2020-09-28,Cryo,Claymore,Male,Liyue,4.0,0000-09-07
+Bennett,12397,191,771,Energy Recharge,26.7%,2020-09-28,Pyro,Sword,Male,Mondstadt,4.0,0000-02-29
+Beidou,13050,225,648,Electro DMG Bonus,24.0%,2020-09-28,Electro,Claymore,Female,Liyue,4.0,0000-02-14
+Barbara,9787,159,669,HP,24.0%,2020-09-28,Hydro,Catalyst,Female,Mondstadt,4.0,0000-07-05
+Amber,9461,223,601,ATK,24.0%,2020-09-28,Pyro,Bow,Female,Mondstadt,4.0,0000-08-10
+Jean,14695,239,769,Healing Bonus,22.2%,2020-09-28,Anemo,Sword,Female,Mondstadt,5.0,0000-03-14
+Klee,10287,311,615,Pyro DMG Bonus,28.8%,2020-10-20,Pyro,Catalyst,Female,Mondstadt,5.0,0000-07-27
+Diona,9570,212,601,Cryo DMG Bonus,24.0%,2020-11-11,Cryo,Bow,Female,Mondstadt,4.0,0000-01-18
+Tartaglia,13103,301,815,Hydro DMG Bonus,28.8%,2020-11-11,Hydro,Bow,Male,Snezhnaya,5.0,0000-07-20
+Xinyan,11201,249,799,ATK,24.0%,2020-12-01,Pyro,Claymore,Female,Liyue,4.0,0000-10-16
+Zhongli,14695,251,738,Geo DMG Bonus,28.8%,2020-12-01,Geo,Polearm,Male,Liyue,5.0,0000-12-31
+Albedo,13226,251,876,Geo DMG Bonus,28.8%,2020-12-23,Geo,Sword,Male,Mondstadt,5.0,0000-09-13
+Ganyu,9797,335,630,CRIT DMG,38.4%,2021-01-12,Cryo,Bow,Female,Liyue,5.0,0000-12-02
+Xiao,12736,349,799,CRIT Rate,19.2%,2021-02-03,Anemo,Polearm,Male,Liyue,5.0,0000-04-17
+Hu Tao,15552,106,876,CRIT DMG,38.4%,2021-03-02,Pyro,Polearm,Female,Liyue,5.0,0000-07-15
+Rosaria,12289,240,710,ATK,24.0%,2021-04-06,Cryo,Polearm,Female,Mondstadt,4.0,0000-01-24
+Yanfei,9352,240,587,Pyro DMG Bonus,24.0%,2021-04-28,Pyro,Catalyst,Female,Liyue,4.0,0000-07-28
+Eula,13226,342,751,CRIT DMG,38.4%,2021-05-18,Cryo,Claymore,Female,Mondstadt,5.0,0000-10-25
+Kaedehara Kazuha,13348,297,807,Elemental Mastery,115.2,2021-06-29,Anemo,Sword,Male,Inazuma,5.0,0000-10-29
+Kamisato Ayaka,12858,342,784,CRIT DMG,38.4%,2021-07-21,Cryo,Sword,Female,Inazuma,5.0,0000-09-28
+Sayu,11854,244,745,Elemental Mastery,96,2021-08-10,Anemo,Claymore,Female,Inazuma,4.0,0000-10-19
+Yoimiya,10164,323,615,CRIT Rate,19.2%,2021-08-10,Pyro,Bow,Female,Inazuma,5.0,0000-06-21
